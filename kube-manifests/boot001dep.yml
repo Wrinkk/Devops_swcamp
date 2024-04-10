@@ -1,4 +1,4 @@
-#deployments 파일은 어떤 이미지로 컨테이너들을 몇개 관리할 지 정의하는 파일
+# deployments 파일은 어떤 이미지로 컨테이너들을 몇개 관리할 지 정의하는 파일
 apiVersion: apps/v1
 kind: Deployment
 metadata:
